@@ -1,0 +1,35 @@
+html {
+    background: url(bachground.jpg) no-repeat center fixed;
+    background-size: cover;
+}
+
+body {
+    background-color: rgba(59, 51, 92, 0.514);
+    border: solid;
+    width: 600px;
+    margin: auto;
+    padding: 25px 150px 50px;
+    opacity: 0.8;
+    border-color: rgb(rgb(32, 6, 61) );
+}
+
+h1,
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+#ro {
+    margin: auto;
+}
+
+#fo {
+    margin: auto;
+}
+
+#te {
+    margin: auto;
+}
